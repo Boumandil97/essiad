@@ -1,0 +1,61 @@
+.label{
+	-fx-text-fill: pink;
+	-fx-font-family: Algerian;
+	-fx-underline: true;
+}
+
+.text-field{
+			-fx-background-color: #ffffff;
+			-fx-background-radius: 7;
+			-fx-font-family: boldarial;
+			-fx-border-color: white;
+			-fx-border-radius: 7;
+			
+		
+		}
+
+#rct2{
+		-fx-fill: #2a282a;
+		
+		
+		}
+		#title{
+			-fx-font-family: algerian  ;
+			-fx-font-size: 26;
+		}
+		.button{
+			-fx-background-color: #40c3f7;
+			-fx-background-radius: 7;
+			-fx-font-family: boldarial;
+			-fx-opacity: 0.9;
+			-fx-border-color: #a8084b;
+			-fx-border-radius: 7;
+			-fx-underline: true;
+			-fx-text-fill: white;
+		-fx-font-size: 13;
+	
+		-fx-border-image-slice: 12;
+		
+		}
+		.button:hover {
+				
+				-fx-opacity: 1;
+			-fx-translate-y: -5;
+			-fx-cursor: hand;
+			
+
+		}
+		#etat{
+			-fx-pref-height: 71;
+			-fx-pref-width: 232;
+			
+		}
+		.radio-button{
+			-fx-text-fill: pink;
+		}
+		#error{
+			-fx-text-fill: red;
+			-fx-underline: true;
+			-fx-font-family: boldarial;
+		}
+		

@@ -1,0 +1,76 @@
+.button{
+	
+			-fx-background-color: #615858;
+			-fx-background-radius: 32;
+			-fx-font-family: boldarial;
+			-fx-font-size: 14;
+			-fx-pref-width: 100;
+			-fx-pref-height: 25;
+			-fx-opacity: 1;
+			-fx-border-color: #a8084b;
+			-fx-border-radius: 32;
+			-fx-underline: true;
+			-fx-width: 12;
+			-fx-translate-y: 10;
+			-fx-translate-x: 5;
+		}
+.text-field{
+	
+	                                
+			-fx-background-radius: 32;
+			-fx-font-family: boldarial;
+			-fx-font-size: 14;
+			-fx-pref-width: 150;
+			-fx-pref-height: 5;
+			-fx-opacity: 1;
+			-fx-border-color: #a8084b;
+			-fx-border-radius: 32;
+			-fx-underline: true;
+			-fx-width: 12;
+			
+		}
+			.button:hover {
+				-fx-background-color: black;
+				-fx-opacity: 1;
+			-fx-translate-y: -0.05;
+			-fx-cursor: hand;
+			
+
+		}
+		#btn5{
+		-fx-background-color: #ffffff;
+		-fx-opacity: 1;
+	}
+	#ic1:hover{
+		-fx-translate-y: -5;
+	}	
+	
+			#btn5:hover{
+		-fx-background-color: #2a282a;
+		-fx-text-fill: white;
+		-fx-opacity: 1;
+	}
+	#rct1{
+		-fx-fill: #2a282a;
+		}
+#ins{
+	-fx-underline: true;
+	-fx-font-size: 14;
+	-fx-font-family: boldarial;
+	
+}	
+#ins:hover{
+	-fx-text-fill: #678ed1;
+	-fx-cursor: hand;
+	
+	
+	
+}	
+		#error{
+		-fx-font-familly: boldaparajita;
+		-fx-text-fill: red;
+		-fx-font-size: 13;
+	}
+	#rcta{
+		-fx-fill: #2a282a;
+		}

@@ -1,0 +1,34 @@
+	
+
+.button{
+			-fx-background-color: #40c3f7;
+			-fx-background-radius: 7;
+			-fx-font-family: boldarial;
+			-fx-font-size: 17;
+			-fx-pref-width: 250;
+			-fx-opacity: 0.9;
+			-fx-border-color: #a8084b;
+			-fx-border-radius: 7;
+			-fx-underline: true;
+			-fx-translate-x: 50;
+		}
+		.button:hover {
+			-fx-opacity: 1;
+			-fx-translate-y: -5;
+			-fx-cursor: hand;
+			
+			
+
+		}
+	#img2:hover{
+		
+		-fx-opacity: 1;
+		-fx-translate-z: 50;
+		-fx-translate-y: -5; 
+		
+	}
+
+
+	
+	
+	

@@ -1,0 +1,109 @@
+#dbox{
+	-fx-background-color:  #3F2B63;
+	
+	
+}
+#dbox2{
+	-fx-background-color:  #3F2B63;
+	
+	
+}
+#nom{
+	-fx-font-family:forte ;
+	-fx-font-size: 20;
+	-fx-text-fill: white;
+}
+.anchorpane{-fx-background-color: linear-gradient(to top right, #6600cc 42%, #000000 87%);}
+	
+
+.button{
+	-fx-background-color:  #3F2B63;
+	-fx-text-fill: white;
+	-fx-font-family: boldarial;
+	-fx-font-size: 15;
+	-fx-graphic-text-gap: 10;
+	-fx-pref-width: 317;
+	-fx-pref-height: 47;
+	
+	
+	
+	
+	}
+		.button:hover {
+				-fx-background-color: #6a197d;
+				-fx-opacity: 1;
+			
+			-fx-cursor: hand;
+			
+
+		}
+		.button:on-click{
+			-fx-background-color: blue;
+		}
+		#desc{
+			-fx-text-fill: #3F2B63;
+	-fx-font-family: Algerian;
+	-fx-font-size: 30;
+	-fx-underline: true;
+		}
+			#lab2{
+			-fx-text-fill: pink;
+	-fx-font-family: Algerian;
+	-fx-font-size: 30;
+	-fx-underline: true;
+		}
+		#err{
+			-fx-font-familly: boldaparajita;
+		-fx-text-fill: red;
+		-fx-font-size: 13;
+		}
+		#id{
+			-fx-background-color:  #3F2B63;
+	-fx-text-fill: white;
+	-fx-font-family: boldarial;
+	-fx-font-size: 15;
+	-fx-graphic-text-gap: 15;
+	-fx-pref-width: 100;
+	-fx-pref-height: 15;
+		}
+		#sup{
+			-fx-background-color:  #3F2B63;
+	-fx-text-fill: white;
+	-fx-font-family: boldarial;
+	-fx-font-size: 15;
+	-fx-graphic-text-gap: 15;
+	-fx-pref-width: 100;
+	-fx-pref-height: 15;
+		}
+	#wel{
+				-fx-text-fill: #3F2B63;
+	-fx-font-family: Algerian;
+	-fx-font-size: 30;
+	-fx-underline: true;
+	}	
+	#int{
+		-fx-background-color: #6a197d;
+				-fx-opacity: 0.32;
+	}
+	#ppp{
+			-fx-background-color:  #3F2B63;
+	}
+#button{
+	-fx-background-color: #000000;
+	-fx-text-fill: #678ed1;
+	-fx-font-family: boldarial;
+	-fx-font-size: 15;
+	-fx-graphic-text-gap: 10;
+	-fx-pref-width: 155;
+	-fx-pref-height: 132;
+	-fx-background-radius: 32;
+	-fx-border-radius: 32;
+	-fx-border-color: #a8084b;
+}
+#button:hover{
+	-fx-text-fill: #678ed1;
+	-fx-cursor: hand;
+	-fx-translate-y: -5;
+	}
+#pane{
+	-fx-background-color: linear-gradient(to top right, #6600cc 42%, #000000 87%);}

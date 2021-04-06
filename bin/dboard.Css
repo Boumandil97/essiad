@@ -1,0 +1,69 @@
+#dbox{
+	-fx-background-color:  #3F2B63;
+	
+	
+}
+#nom{
+	-fx-font-family:forte ;
+	-fx-font-size: 20;
+	-fx-text-fill: white;
+}
+.button{
+	-fx-background-color:  #3F2B63;
+	-fx-text-fill: white;
+	-fx-font-family: boldarial;
+	-fx-font-size: 15;
+	-fx-graphic-text-gap: 10;
+	-fx-pref-width: 317;
+	-fx-pref-height: 47;
+	
+	
+	
+	
+	}
+		.button:hover {
+				-fx-background-color: #6a197d;
+				-fx-opacity: 1;
+			
+			-fx-cursor: hand;
+			
+
+		}
+		.button:on-click{
+			-fx-background-color: blue;
+		}
+		#desc{
+			-fx-text-fill: #3F2B63;
+	-fx-font-family: Algerian;
+	-fx-font-size: 30;
+	-fx-underline: true;
+		}
+			#lab2{
+			-fx-text-fill: #3F2B63;
+	-fx-font-family: Algerian;
+	-fx-font-size: 30;
+	-fx-underline: true;
+		}
+		#err{
+			-fx-font-familly: boldaparajita;
+		-fx-text-fill: red;
+		-fx-font-size: 13;
+		}
+		#id{
+			-fx-background-color:  #3F2B63;
+	-fx-text-fill: white;
+	-fx-font-family: boldarial;
+	-fx-font-size: 15;
+	-fx-graphic-text-gap: 15;
+	-fx-pref-width: 100;
+	-fx-pref-height: 15;
+		}
+		#sup{
+			-fx-background-color:  #3F2B63;
+	-fx-text-fill: white;
+	-fx-font-family: boldarial;
+	-fx-font-size: 15;
+	-fx-graphic-text-gap: 15;
+	-fx-pref-width: 100;
+	-fx-pref-height: 15;
+		}

@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="heelloo" type="Application" factoryName="Application" nameIsGenerated="true">
+    <envs>
+      <env name="VAR" value="javafx.fxml" />
+      <env name="VAR2" value="javafx.controls" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="project.heelloo" />
+    <module name="khalid" />
+    <option name="PROGRAM_PARAMETERS" value="$MAVEN_REPOSITORY$$MODULE_DIR$$MAVEN_REPOSITORY$" />
+    <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
